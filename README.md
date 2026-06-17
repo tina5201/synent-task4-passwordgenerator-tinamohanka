@@ -1,1 +1,0 @@
-# synent-task4-passwordgenerator-tinamohanka
