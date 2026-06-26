@@ -73,5 +73,5 @@ Include Special Symbols?  (!@#...) (y/n): y
 
 ## 👤 Author
 
-**Your Name**
+Tina Kumari Mohanka
 Python Development Intern – Synent Technologies
